@@ -1,0 +1,15 @@
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\bin\Debug\netcoreapp3.0\Lab5.exe
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\bin\Debug\netcoreapp3.0\Lab5.deps.json
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\bin\Debug\netcoreapp3.0\Lab5.runtimeconfig.json
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\bin\Debug\netcoreapp3.0\Lab5.runtimeconfig.dev.json
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\bin\Debug\netcoreapp3.0\Lab5.dll
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\bin\Debug\netcoreapp3.0\Lab5.pdb
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\obj\Debug\netcoreapp3.0\Lab5.csprojAssemblyReference.cache
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\obj\Debug\netcoreapp3.0\Lab5.AssemblyInfoInputs.cache
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\obj\Debug\netcoreapp3.0\Lab5.AssemblyInfo.cs
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\obj\Debug\netcoreapp3.0\Lab5.dll
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\obj\Debug\netcoreapp3.0\Lab5.pdb
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\bin\Debug\netcoreapp3.0\Syncfusion.Compression.Portable.dll
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\bin\Debug\netcoreapp3.0\Syncfusion.Licensing.dll
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\bin\Debug\netcoreapp3.0\Syncfusion.XlsIO.Portable.dll
+F:\6 семестр\КМЗИ\лабораторные\Lab5\Lab5\obj\Debug\netcoreapp3.0\Lab5.csproj.CopyComplete

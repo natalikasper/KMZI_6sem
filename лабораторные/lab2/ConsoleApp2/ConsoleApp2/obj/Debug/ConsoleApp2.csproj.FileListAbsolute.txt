@@ -1,0 +1,20 @@
+E:\Настя\6sem\КМЗИ\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Настя\6sem\КМЗИ\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Настя\6sem\КМЗИ\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Настя\6sem\КМЗИ\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojResolveAssemblyReference.cache
+E:\Настя\6sem\КМЗИ\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Настя\6sem\КМЗИ\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Настя\6sem\КМЗИ\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+F:\6 семестр\КМЗИ\другое\2\02\002\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\6 семестр\КМЗИ\другое\2\02\002\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\6 семестр\КМЗИ\другое\2\02\002\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\6 семестр\КМЗИ\другое\2\02\002\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+F:\6 семестр\КМЗИ\другое\2\02\002\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\6 семестр\КМЗИ\другое\2\02\002\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+F:\6 семестр\КМЗИ\лабораторные\lab2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+F:\6 семестр\КМЗИ\лабораторные\lab2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+F:\6 семестр\КМЗИ\лабораторные\lab2\ConsoleApp2\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+F:\6 семестр\КМЗИ\лабораторные\lab2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+F:\6 семестр\КМЗИ\лабораторные\lab2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+F:\6 семестр\КМЗИ\лабораторные\lab2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+F:\6 семестр\КМЗИ\лабораторные\lab2\ConsoleApp2\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.ResolveComReference.cache

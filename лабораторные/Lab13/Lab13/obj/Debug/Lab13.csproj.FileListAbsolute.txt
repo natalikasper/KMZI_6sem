@@ -1,0 +1,18 @@
+C:\Users\Natalie\Downloads\Lab13\Lab13\bin\Debug\Lab13.exe.config
+C:\Users\Natalie\Downloads\Lab13\Lab13\bin\Debug\Lab13.exe
+C:\Users\Natalie\Downloads\Lab13\Lab13\bin\Debug\Lab13.pdb
+C:\Users\Natalie\Downloads\Lab13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+C:\Users\Natalie\Downloads\Lab13\Lab13\obj\Debug\Lab13.exe
+C:\Users\Natalie\Downloads\Lab13\Lab13\obj\Debug\Lab13.pdb
+C:\Users\Natalie\Downloads\Lab13\Lab13\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Natalie\Downloads\Lab13\Lab13\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Natalie\Downloads\Lab13\Lab13\obj\Debug\Lab13.csproj.CopyComplete
+F:\6 семестр\КМЗИ\лабораторные\Lab13\Lab13\bin\Debug\Lab13.exe.config
+F:\6 семестр\КМЗИ\лабораторные\Lab13\Lab13\bin\Debug\Lab13.exe
+F:\6 семестр\КМЗИ\лабораторные\Lab13\Lab13\bin\Debug\Lab13.pdb
+F:\6 семестр\КМЗИ\лабораторные\Lab13\Lab13\bin\Debug\System.Numerics.Vectors.dll
+F:\6 семестр\КМЗИ\лабораторные\Lab13\Lab13\bin\Debug\System.Numerics.Vectors.xml
+F:\6 семестр\КМЗИ\лабораторные\Lab13\Lab13\obj\Debug\Lab13.csprojAssemblyReference.cache
+F:\6 семестр\КМЗИ\лабораторные\Lab13\Lab13\obj\Debug\Lab13.csproj.CopyComplete
+F:\6 семестр\КМЗИ\лабораторные\Lab13\Lab13\obj\Debug\Lab13.exe
+F:\6 семестр\КМЗИ\лабораторные\Lab13\Lab13\obj\Debug\Lab13.pdb

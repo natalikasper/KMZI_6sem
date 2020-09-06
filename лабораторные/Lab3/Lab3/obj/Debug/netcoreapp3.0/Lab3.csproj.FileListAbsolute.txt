@@ -1,0 +1,11 @@
+F:\6 семестр\КМЗИ\лабораторные\Lab3\Lab3\bin\Debug\netcoreapp3.0\Lab3.exe
+F:\6 семестр\КМЗИ\лабораторные\Lab3\Lab3\bin\Debug\netcoreapp3.0\Lab3.deps.json
+F:\6 семестр\КМЗИ\лабораторные\Lab3\Lab3\bin\Debug\netcoreapp3.0\Lab3.runtimeconfig.json
+F:\6 семестр\КМЗИ\лабораторные\Lab3\Lab3\bin\Debug\netcoreapp3.0\Lab3.runtimeconfig.dev.json
+F:\6 семестр\КМЗИ\лабораторные\Lab3\Lab3\bin\Debug\netcoreapp3.0\Lab3.dll
+F:\6 семестр\КМЗИ\лабораторные\Lab3\Lab3\bin\Debug\netcoreapp3.0\Lab3.pdb
+F:\6 семестр\КМЗИ\лабораторные\Lab3\Lab3\obj\Debug\netcoreapp3.0\Lab3.csprojAssemblyReference.cache
+F:\6 семестр\КМЗИ\лабораторные\Lab3\Lab3\obj\Debug\netcoreapp3.0\Lab3.AssemblyInfoInputs.cache
+F:\6 семестр\КМЗИ\лабораторные\Lab3\Lab3\obj\Debug\netcoreapp3.0\Lab3.AssemblyInfo.cs
+F:\6 семестр\КМЗИ\лабораторные\Lab3\Lab3\obj\Debug\netcoreapp3.0\Lab3.dll
+F:\6 семестр\КМЗИ\лабораторные\Lab3\Lab3\obj\Debug\netcoreapp3.0\Lab3.pdb
